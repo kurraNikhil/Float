@@ -1,0 +1,105 @@
+
+h1 {
+   text-align:center;
+   background-color:gray;
+}
+.div1 { 
+     
+    height:400px;
+  }
+.box1 {
+   margin: 5px;
+   width:28.5%;
+   height:300px;
+   float:left;
+   background:black;
+   color:white;
+   padding: 30px; 
+}
+
+.box2 {
+    margin: 5px;
+     width:28.5%;
+    height:50px;
+    float:left;
+ background:black;
+    color:white;
+   padding: 30px; 
+}
+
+.box3 {
+    margin: 5px;
+     width:28.5%;
+    height:150px;
+   float:left;
+ background:black;
+    color:white;
+  padding: 30px; 
+}
+
+.div2 { 
+     height:800px;
+     
+  }
+.box4 {
+   margin: 5px;
+   width:28.5%;
+   height:300px;
+   float:left;
+     background:black;
+    color:white;
+   padding: 30px; 
+}
+
+.box5 {
+    margin: 5px;
+     width:28.5%;
+    height:700px;
+    float:left;
+ background:black;
+    color:white;
+   padding: 30px; 
+}
+
+.box6 {
+    margin: 5px;
+     width:28.5%;
+    height:150px;
+   float:left;
+ background:black;
+    color:white;
+  padding: 30px; 
+}
+
+.div3 { 
+    height:400px;
+  }
+.box7 {
+   margin: 5px;
+   width:28.5%;
+   height:300px;
+   float:left;
+    background:black;
+    color:white;
+   padding: 30px; 
+}
+
+.box8 {
+    margin: 5px;
+     width:28.5%;
+    height:50px;
+    float:left;
+ background:black;
+    color:white;
+   padding: 30px; 
+}
+
+.box9 {
+    margin: 5px;
+     width:28.5%;
+    height:150px;
+   float:left;
+ background:black;
+    color:white;
+  padding: 30px; 
+}

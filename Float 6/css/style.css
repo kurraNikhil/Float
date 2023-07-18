@@ -1,0 +1,40 @@
+.groove {border-style: groove;
+         height:14%;
+         }
+
+
+.div1 {
+  text-align:center;
+  padding: 15px; 
+  background: green;
+}
+.div2 {
+  text-align:center;
+  padding: 15px; 
+  background: red;
+}
+
+.div3 {
+  text-align:center;
+  paddin: 30px; 
+  width:50%;
+ height:50px;
+  float:left; 
+  background: orange;
+}
+
+.div4 {
+  text-align:center;
+  paddin: 30px; 
+  width:50%;
+  height:50px; 
+  float:right;
+  background: pink;
+}
+
+.div5 {
+  text-align:center;
+  padding: 15px; 
+  background:blue;
+ 
+}

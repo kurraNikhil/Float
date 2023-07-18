@@ -1,0 +1,17 @@
+			
+			.box1{
+				width:90%;
+				height:120px;
+				background-color:blue;
+				margin: 25px ;
+				padding:50px ;
+				}
+			.box2{
+				padding:50px ;
+				width:150px;
+				height:200px;
+				float:left;
+				margin: 25px  blue;
+				background-color:orange;
+				}
+			

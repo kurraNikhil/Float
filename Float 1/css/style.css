@@ -1,0 +1,40 @@
+.div1 {
+  text-align:center;
+  padding: 15px; 
+  background: green;
+}
+
+.div3 {
+     border-style: groove;
+     height:50px;
+     
+}
+.div4 {
+  text-align:center;
+  padding: 15px; 
+  background:red;
+  float:left;
+  width:30%;
+}
+.div5 {
+  text-align:center;
+  padding: 15px; 
+  background: orange;
+  float:left;
+   width:30%;
+   margin-left:25px;
+    margin-right:5px;
+}
+.div6 {
+  text-align:center;
+  padding: 15px; 
+  background: pink;
+  float:right;
+    width:30%;
+}
+
+.div2 {
+  text-align:center;
+  padding: 15px; 
+  background: blue;
+}
